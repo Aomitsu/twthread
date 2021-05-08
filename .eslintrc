@@ -1,0 +1,13 @@
+{
+    "extends": ["airbnb-typescript/base"],
+    "env": {
+      "node": true
+    },
+    "plugins": ["@typescript-eslint", "import"],
+    "parserOptions": {
+      "project": "./tsconfig.json"
+    },
+    "rules": {
+      "comma-dangle": "off"
+    }
+  }
