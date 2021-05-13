@@ -8,6 +8,6 @@
       "project": "./tsconfig.json"
     },
     "rules": {
-      "comma-dangle": "off"
+      "comma-dangle": "warn"
     }
   }
